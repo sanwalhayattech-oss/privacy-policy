@@ -1,0 +1,37 @@
+<h1>Privacy Policy for Diurna</h1>
+<p><strong>Effective Date:</strong> November 6, 2026</p>
+<p><strong>Developer:</strong> SIX COUSINS INVESTMENT PARTNERS LLC</p>
+<p><strong>Contact Email:</strong> <a href="mailto:sanwalhayattech@gmail.com">sanwalhayattech@gmail.com</a></p>
+
+<hr>
+
+<h2>1. Overview</h2>
+<p>Diurna is designed as a private, offline-first personal productivity and diurnal time-blocking tool. We believe that your daily routines, focus habits, and personal schedules are strictly your own business. Diurna does not require user accounts, does not connect to external servers, and does not collect, transmit, sell, or monetize your personal data.</p>
+
+<h2>2. Information Collection and Storage</h2>
+<p>All data created within Diurna—including your daily time blocks, routine blueprints, focus/recovery categories, notes, and custom preferences—is stored exclusively on your device within the application's private SQLite database. This data never leaves your physical device and is not accessible to us or any third parties.</p>
+
+<h2>3. Device Permissions</h2>
+<p>Diurna is built with zero unnecessary permissions. Specifically:</p>
+<ul>
+    <li><strong>No Internet Permission:</strong> The application does not declare or request network access (android.permission.INTERNET). It is technically incapable of sending data over the internet.</li>
+    <li><strong>No Location Permission:</strong> Diurna does not request or track your geographic location.</li>
+    <li><strong>No Device Storage Access:</strong> Diurna does not read or write to shared external storage; it operates solely within its isolated internal app sandbox.</li>
+    <li><strong>No Contacts, Camera, or Microphone Access:</strong> Diurna does not access your sensitive device sensors or personal contacts.</li>
+</ul>
+
+<h2>4. Third-Party Services and Analytics</h2>
+<p>Diurna does not integrate any third-party tracking software, advertising networks, telemetry tools, or analytics SDKs (such as Google Analytics or Firebase). The application is completely free of tracking code.</p>
+
+<h2>5. Data Retention and Deletion</h2>
+<p>Because your schedule data is stored entirely on your local device, you retain full control over your information at all times. You can delete individual blocks, clear entire days within the app settings, or permanently remove all data by clearing the app storage or uninstalling Diurna from your device.</p>
+
+<h2>6. Children\'s Privacy</h2>
+<p>Diurna does not knowingly collect or solicit any personal information from children under the age of 13 (or under 16 in certain jurisdictions). Because the app collects no personal data whatsoever, it is safe for users of all ages.</p>
+
+<h2>7. Changes to This Privacy Policy</h2>
+<p>We may update this Privacy Policy from time to time to reflect changes in legal requirements or platform updates. Any updates will be published with a revised effective date.</p>
+
+<h2>8. Contact Us</h2>
+<p>If you have any questions, suggestions, or concerns regarding this Privacy Policy or Diurna, please contact SIX COUSINS INVESTMENT PARTNERS LLC at:</p>
+<p><strong>Email:</strong> <a href="mailto:sanwalhayattech@gmail.com">sanwalhayattech@gmail.com</a></p>
